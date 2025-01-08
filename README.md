@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://i.ibb.co.com/2dHWghr/DEVmilon923.png"  />
+</div>
+
+###
+
 <h5 align="center">Social Account:</h5>
 
 ###
@@ -13,19 +19,7 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.ibb.co.com/2dHWghr/DEVmilon923.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devmilon923.devmilon923&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
+<h1 align="left">Hey there 👋</h1>
 
 ###
 
