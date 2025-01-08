@@ -1,15 +1,3 @@
-<div align="center">
-  <img height="150" src="https://i.ibb.co.com/2dHWghr/DEVmilon923.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devmilon923.devmilon923&"  />
-</div>
-
-###
-
 <h5 align="center">Social Account:</h5>
 
 ###
@@ -21,6 +9,18 @@
   <a href="https://www.facebook.com/devmilon923" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://i.ibb.co.com/2dHWghr/DEVmilon923.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devmilon923.devmilon923&"  />
 </div>
 
 ###
