@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Milon as a web developer from Bangladesh focused on backend solutions with Node.js, Express, MongoDB, and Mongoose and also use React and Tailwind CSS for creating responsive front-end interfaces.<br><br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I watch movies</p>
+<p align="left">I'm Milon as a web developer from  Bangladesh focused on backend solutions with Node.js, Express, MongoDB, and Mongoose and also use React and Tailwind CSS for creating responsive front-end interfaces.<br><br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I watch movies</p>
 
 ###
 
@@ -57,9 +57,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devmilon923&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmilon923&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
