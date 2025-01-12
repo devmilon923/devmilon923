@@ -1,5 +1,3 @@
-
-###
 <h5 align="center">Social Account:</h5>
 <div align="center">
   <a href="https://x.com/dev_milon923" target="_blank">
