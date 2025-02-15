@@ -1,6 +1,6 @@
 
 <h1 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Milon_Mia" />
 </h1>
 
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Milon as a web developer from  Bangladesh focused on backend solutions with Node.js, Express, MongoDB, and Mongoose and also use React and Tailwind CSS for creating responsive front-end interfaces.<br><br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I watch movies</p>
+<p align="left">As a web developer from  Bangladesh focused on backend solutions with Node.js, Express, MongoDB, and Mongoose and also use React and Tailwind CSS for creating responsive front-end interfaces.<br><br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I watch movies</p>
 
 ###
 
