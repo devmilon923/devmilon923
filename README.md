@@ -60,6 +60,9 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+
+  <img src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" height="40" alt="redis logo"  />
 </div>
 
 ###
