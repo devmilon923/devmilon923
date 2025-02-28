@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">As a web developer from  Bangladesh focused on backend solutions with Node.js, Express, MongoDB, and Mongoose and also use React and Tailwind CSS for creating responsive front-end interfaces.<br><br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I watch movies</p>
+<p align="left">As a web developer from  Bangladesh focused on backend solutions with Node.js, Express, MongoDB, and Mongoose and also use React and Tailwind CSS for creating responsive front-end interfaces.<br><br>- 📚 I'm currently learning WebRTC<br>- ⚡ In my free time I watch movies</p>
 
 ###
 
